@@ -10,7 +10,7 @@
 
 - 直接点击群课堂标签下的`加入`按钮
 
-![](\img\pc\enter.png)
+![](.\img\pc\enter.png)
 
 ## 可能存在的Flash安装提示
 
