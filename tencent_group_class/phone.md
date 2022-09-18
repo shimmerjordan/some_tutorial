@@ -10,11 +10,11 @@
 
 - 直接点击聊天记录中的群课堂发起记录进入
 
-![](.\img\phone\enter.png)
+![](./img/phone/enter.png)
 
 首次进入需要等待下载相关资源，耐心等待后即可进入
 
-![](.\img\phone\first_enter.png)
+![](./img/phone/first_enter.png)
 
 ## 主页面功能按钮
 
@@ -26,39 +26,39 @@
 
 - 右下角的其他功能按钮（多数情况不需要）
 
-![](.\img\phone\home.png) 
+![](./img/phone/home.png) 
 
 ## 连麦功能
 
 如需连麦发言，需要进行申请并等待主持人回应。在上图的箭头`4`处进行连线的申请，点击后即进入连线排队。
 
-![](.\img\phone\connect.png) 
+![](./img/phone/connect.png) 
 
 ## 可能需要的实名认证操作
 
 因为移动版的相关规定，连麦属于直播范畴，需要进行实名认证：
 
-![](.\img\phone\verify.png) 
+![](./img/phone/verify.png) 
 
 点击`去认证`进入实名认证流程：
 
 确认信息无误后发送验证码，如下图输入收到的短信验证码后点击提交：
 
-![](.\img\phone\verify_2.png) 
+![](./img/phone/verify_2.png) 
 
 先点击`我知道了`关闭悬浮窗，填入相关信息后勾选`我同意`并点击下一步。此后进入人脸认证环节。
 
-![](.\img\phone\verify_3.png) 
+![](./img/phone/verify_3.png) 
 
 验证完毕后提示下图的`验证成功`，即可点击返回或者直接重新进入课堂。
 
-![](.\img\phone\verify_success.png) 
+![](./img/phone/verify_success.png) 
 
 ## 连麦功能（续）
 
 如果误点连线或者想查看排队成员，可以再次点击电话按钮，一方面可以查看队列成员，另一方面可以点击悬浮功能旗袍的的`取消连线`按钮取消连线申请。
 
-![](.\img\phone\connect_cancel.png)
+![](./img/phone/connect_cancel.png)
 
 进入如下页面表示连麦成功。注意核实`3`处显示的连麦观众是否为自己。
 连麦后界面中有一些功能按钮，包括：
@@ -71,11 +71,11 @@
 
 - 其他功能按钮：暂不需要
 
-![](.\img\phone\connect_success.png)
+![](./img/phone/connect_success.png)
 
 如需结束连线，点击挂断按钮后需要进行二次确认：
 
-![](.\img\phone\connect_end.png)
+![](./img/phone/connect_end.png)
 
 ## 交流区
 
@@ -83,9 +83,9 @@
 
 直接点击左下角的聊天按钮即可输入发言内容，可选加入表情但不建议。完成输入后点击发送即可发送留言。
 
-![](.\img\phone\chat.png)
+![](./img/phone/chat.png)
 
 ## 退出
 
 手机端的退出可能需要进行二次确认，在点击右上角的叉叉后如果发现仍未完全提出，例如安卓手机，需要在右下角处再次点击叉叉进行退出：
-![](.\img\phone\end.png)
+![](./img/phone/end.png)
